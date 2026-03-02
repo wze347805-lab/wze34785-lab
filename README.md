@@ -68,12 +68,3 @@ I am a **"Builder-Architect"** specializing in bridging the gap between theoreti
 #### 🤖 [LLM-Agent Knowledge Graph](#)
 *Designed autonomous agents using RAG to process unstructured literature and construct semantic knowledge graphs.*
 * **Impact:** Transformed static documentation into interactive data nodes, significantly enhancing retrieval accuracy.
-
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wze347805-lab&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wze347805-lab&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
