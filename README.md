@@ -1,5 +1,5 @@
-# wze34785-lab
-Hi there, I'm Ze Wang 👋
+
+# Hi there, I'm Ze Wang 👋
 
 🚀 Data Engineer | AI & Optimization Researcher | MSc @ University of Liverpool
 
